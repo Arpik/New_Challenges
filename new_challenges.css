@@ -1,0 +1,74 @@
+.mobile{
+    margin: 42px  0 20px 42px;
+    font-family: Arial, cursive;
+    text-transform: uppercase;
+}
+
+.challenges {
+    margin-left: 42px;
+    margin-right: 0;
+    box-shadow: 0 0 5px rgba(169, 169, 169, 0.46);
+    width: 293px;
+    height: 664px;
+}
+
+.header {
+    margin-left: 32px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding-top: 19px;
+    font-family: Verdana, cursive;
+    text-transform: uppercase;
+    font-size: 162%;
+}
+
+.line_1 {
+    text-transform: uppercase;
+    margin-left: -14px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.line_2 {
+    text-align: center;
+    font-family: Arial, cursive;
+    margin-top: 13px;
+    margin-right: 20px;
+    color: whitesmoke;
+}
+
+.numbers {
+    font-size: 200%;
+}
+
+.blue_box {
+    margin: 0 35px 0 35px;
+    background-color: #349adc;
+    width: 227px;
+    height: 135px;
+}
+
+.red_box {
+    margin: 0 35px 0 35px;
+    background-color: #ff795c;
+    width: 227px;
+    height: 135px;
+}
+
+.green_box {
+    margin: 0 35px 0 35px;
+    background-color: #44bea5;
+    width: 227px;
+    height: 135px;
+
+}
+
+.black_box {
+    margin: 0 35px 0 35px;
+    background-color: #33475f;
+    width: 227px;
+    height: 135px;
+}
+
